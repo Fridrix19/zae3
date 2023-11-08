@@ -527,6 +527,13 @@ padding-top: 10px;}
   line-height: normal;
 }
 
+.text-wrapper-3 input{
+  font-family: "Onest", Helvetica;
+  width: 100px;
+  height: 15px;
+  border: none;
+}
+
 .mobile .frame-4 {
   display: inline-flex;
   flex-wrap: wrap;
